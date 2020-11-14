@@ -4,6 +4,7 @@ This repository aims to collect and curate a list of projects which are related 
 
 
 ## Established Projects
+
 - [FunOwl](https://github.com/hsolbrig/funowl) – functional OWL syntax for Python
   - features:
     - provide a pythonic API that follows the OWL functional model for constructing OWL
@@ -34,7 +35,26 @@ This repository aims to collect and curate a list of projects which are related 
     - store implementations for in-memory storage and persistent storage
     - a SPARQL 1.1 implementation – supporting SPARQL 1.1 Queries and Update statements
 
+## Probably Outdated Projects
+
+- [cwm](https://en.wikipedia.org/wiki/Cwm_(software))
+    - Self description: "\[cwm is a\] forward chaining semantic reasoner that can be used for querying, checking, transforming and filtering information".
+    - Created in 2000 by Tim Berners-Lee and Dan Connolly, see [w3.org](https://www.w3.org/2000/10/swap/doc/cwm)
+- [air-reasoner](https://github.com/mit-dig/air-reasoner)
+    - Self description: "Reasoner for the AIR policy language, based on cwm"
+    - based on cwm
+    - Last update: 2013
+- [FuXi](https://pypi.org/project/FuXi/)
+    - Self description: "An OWL / N3-based in-memory, logic reasoning system for RDF"
+    - based on cwm
+    - Last update: 2013
+    - see also <http://code.google.com/p/python-dlp/wiki/FuXi> <http://code.google.com/p/fuxi/source/browse/> (hg-repo)
+
+
+
+
 ## Further Projects / Links
+
 - [github-semantic-web-python](https://github.com/topics/semantic-web?l=python) – github project search with `topic=semantic-web` and `language=python`
 
 - [semantic](https://github.com/crm416/semantic) – Python library for extracting semantic information from text, such as dates and numbers
