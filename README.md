@@ -40,8 +40,11 @@ This repository aims to collect and curate a list of projects which are related 
     - a SPARQL 1.1 implementation – supporting SPARQL 1.1 Queries and Update statements
 
 
-## Probably Outdated Projects
+## Probably Stalled or Outdated Projects
 
+- [Athene](https://github.com/dityas/Athene) DL reasoner in pure python
+    - "[C]urrent version is a beta and only supports ALC. But it can easily be extended by adding tableau rules."
+    - Last update: 2017
 - [cwm](https://en.wikipedia.org/wiki/Cwm_(software))
     - Self description: "\[cwm is a\] forward chaining semantic reasoner that can be used for querying, checking, transforming and filtering information".
     - Created in 2000 by Tim Berners-Lee and Dan Connolly, see [w3.org](https://www.w3.org/2000/10/swap/doc/cwm)
