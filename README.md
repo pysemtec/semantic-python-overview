@@ -5,6 +5,10 @@ This repository aims to collect and curate a list of projects which are related 
 
 ## Established Projects
 
+- [Cooking with Python and KBpedia](https://www.mkbergman.com/cooking-with-python-and-kbpedia/)
+    - Tutorial series on "how to pick tools and then use Python for using and manipulating the KBpedia knowledge graph"
+    - [Material in form of Jupyter Notebooks](https://github.com/Cognonto/CWPK),
+    - accompanying python package [cowpoke](https://github.com/Cognonto/cowpoke),
 - [FunOwl](https://github.com/hsolbrig/funowl) – functional OWL syntax for Python
   - features:
     - provide a pythonic API that follows the OWL functional model for constructing OWL
@@ -34,6 +38,7 @@ This repository aims to collect and curate a list of projects which are related 
     - a graph interface which can be backed by any one of a number of store implementations
     - store implementations for in-memory storage and persistent storage
     - a SPARQL 1.1 implementation – supporting SPARQL 1.1 Queries and Update statements
+
 
 ## Probably Outdated Projects
 
