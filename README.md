@@ -30,6 +30,10 @@ This repository aims to collect and curate a list of projects which are related 
     - parse owl files (RDF/XML or OWL/XML)
     - parse SWRL rules
     - call reasoner (via java)
+  - literature references:
+    - [*Lamy, JB: Owlready: **Ontology-oriented programming in Python with automatic classification and high level constructs for biomedical ontologies**. Artificial Intelligence In Medicine 2017;80:11-28*](http://www.lesfleursdunormal.fr/_downloads/article_owlready_aim_2017.pdf)
+    - [*Lamy, JB: **Ontologies with Python**, Apress, 2020*](https://www.apress.com/fr/book/9781484265512)
+        - accompanying material: <https://github.com/Apress/ontologies-w-python>
 - [rdflib](https://github.com/RDFLib/rdflib) – Python package for working with RDF
   - docs: https://rdflib.readthedocs.io/
   - graphical package overview: https://rdflib.dev/
@@ -57,8 +61,6 @@ This repository aims to collect and curate a list of projects which are related 
     - based on cwm
     - Last update: 2013
     - see also <http://code.google.com/p/python-dlp/wiki/FuXi> <http://code.google.com/p/fuxi/source/browse/> (hg-repo)
-
-
 
 
 ## Further Projects / Links
