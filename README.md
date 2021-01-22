@@ -12,6 +12,9 @@ This repository aims to collect and curate a list of projects which are related 
 - [FunOwl](https://github.com/hsolbrig/funowl) – functional OWL syntax for Python
   - features:
     - provide a pythonic API that follows the OWL functional model for constructing OWL
+- [gizmos](https://github.com/ontodev/gizmos) – Utilities for ontology development
+    - features:
+        - modules for "export", "extract", "tree"-rendering
 - [OntoPilot](https://github.com/stuckyb/ontopilot) – software for ontology development and deployment
   - docs: https://github.com/stuckyb/ontopilot/wiki
   - features:
