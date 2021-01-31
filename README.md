@@ -75,4 +75,7 @@ This repository aims to collect and curate a list of projects which are related 
 - [W3C-Link-List1](https://www.w3.org/2001/sw/wiki/SemanticWebTools#Python_Developers) – link list "SemanticWebTools", section "Python_Developers" (wiki page)
   - might be outdated
 - [W3C-Link-List2](https://www.w3.org/2001/sw/wiki/Python) – list of tools usable from, or with, Python (wiki page)
+- [wikidata-mayors](https://github.com/njanakiev/wikidata-mayors)
+    - Python code to ask wikidata for european mayors and where they where born
+    - Article: https://towardsdatascience.com/where-do-mayors-come-from-querying-wikidata-with-python-and-sparql-91f3c0af22e2
 - [yamlpyowl](https://github.com/cknoll/yamlpyowl) – read an yaml-specified ontology into python by means of owlready2 (experimental)
