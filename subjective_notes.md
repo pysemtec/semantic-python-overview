@@ -21,3 +21,5 @@ This section collects *observations* that I perceive as classical *issues* for a
 - Update docs <https://owlready2.readthedocs.io/> to current version.
     - Ideally, docs should be built automatically when a new version is released.
     - Also, docs should be available for past versions too.
+- [docs on custom rendering](https://owlready2.readthedocs.io/en/latest/annotations.html#custom-rendering-of-entities) should provide information how to restore the original behavior
+    - this can be done with `set_render_func(default_render_func)`, see also <https://github.com/Cognonto/CWPK/blob/master/cwpk-29-extracting-object-data-properties.ipynb>
