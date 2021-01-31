@@ -69,7 +69,9 @@ This repository aims to collect and curate a list of projects which are related 
 ## Further Projects / Links
 
 - [github-semantic-web-python](https://github.com/topics/semantic-web?l=python) – github project search with `topic=semantic-web` and `language=python`
-
+- [Pywikibot](https://github.com/wikimedia/pywikibot)
+    - Library to interact with Wikidata and Wikimedia API
+    - see also: https://www.wikidata.org/wiki/Wikidata:Creating_a_bot#Pywikibot
 - [semantic](https://github.com/crm416/semantic) – Python library for extracting semantic information from text, such as dates and numbers
 - [Solving Einstein Puzzle](https://github.com/cknoll/demo-material/blob/master/expertise_system/einstein-zebra-puzzle-owlready-solution1.ipynb) – jupyter notebook demonstrating how to use owlready2 to solve a logic puzzle
 - [W3C-Link-List1](https://www.w3.org/2001/sw/wiki/SemanticWebTools#Python_Developers) – link list "SemanticWebTools", section "Python_Developers" (wiki page)
