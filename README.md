@@ -15,6 +15,10 @@ This repository aims to collect and curate a list of projects which are related 
 - [gizmos](https://github.com/ontodev/gizmos) – Utilities for ontology development
     - features:
         - modules for "export", "extract", "tree"-rendering
+- [Jabberwocky](https://github.com/sap218/jabberwocky) – a toolkit for ontologies
+    - features:
+        - associated text mining using an ontology terms & synonyms
+        - tf-idf for synonym curation then adding those synonyms into an ontology
 - [OntoPilot](https://github.com/stuckyb/ontopilot) – software for ontology development and deployment
   - docs: https://github.com/stuckyb/ontopilot/wiki
   - features:
