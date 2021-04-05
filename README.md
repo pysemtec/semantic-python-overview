@@ -41,6 +41,10 @@ This repository aims to collect and curate a list of projects which are related 
     - [*Lamy, JB: Owlready: **Ontology-oriented programming in Python with automatic classification and high level constructs for biomedical ontologies**. Artificial Intelligence In Medicine 2017;80:11-28*](http://www.lesfleursdunormal.fr/_downloads/article_owlready_aim_2017.pdf)
     - [*Lamy, JB: **Ontologies with Python**, Apress, 2020*](https://www.apress.com/fr/book/9781484265512)
         - accompanying material: <https://github.com/Apress/ontologies-w-python>
+- [PyRes](https://github.com/eprover/PyRes)
+    - resolution-based theorem provers for first-order logic
+    - focus on good comprehensibility of the code
+    - Literature: [Teaching Automated Theorem Proving by Example](https://link.springer.com/chapter/10.1007/978-3-030-51054-1_9)
 - [rdflib](https://github.com/RDFLib/rdflib) – Python package for working with RDF
   - docs: https://rdflib.readthedocs.io/
   - graphical package overview: https://rdflib.dev/
@@ -68,6 +72,10 @@ This repository aims to collect and curate a list of projects which are related 
     - based on cwm
     - Last update: 2013
     - see also <http://code.google.com/p/python-dlp/wiki/FuXi> <http://code.google.com/p/fuxi/source/browse/> (hg-repo)
+- [pysumo](https://github.com/pySUMO/pysumo)
+    - Ontology IDE for the Sugested Upper Merged Ontology (SUMO)
+    - Docs: https://pysumo.readthedocs.io/
+    - Last update: 2015
 
 
 ## Further Projects / Links
@@ -85,3 +93,5 @@ This repository aims to collect and curate a list of projects which are related 
     - Python code to ask wikidata for european mayors and where they where born
     - Article: https://towardsdatascience.com/where-do-mayors-come-from-querying-wikidata-with-python-and-sparql-91f3c0af22e2
 - [yamlpyowl](https://github.com/cknoll/yamlpyowl) – read an yaml-specified ontology into python by means of owlready2 (experimental)
+- [Notebook, which generates quiz questions from wikidata](https://gist.github.com/ak314/fc6c6f911cb4f39453b575854cdc4869)
+    - [related presentation slides](https://www.slideshare.net/robertoturrin/how-to-turn-wikipedia-into-a-quiz-game)
