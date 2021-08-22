@@ -28,7 +28,7 @@ This section collects *observations* that I perceive as classical *issues* for a
 
 # 404 – A General Impression of the Semantic Web World
 
-Reproducibility and Comprehensibiltiy seems to be a core goal of the whole semantic web idea. However, I discovered a surprisingly high percentage of orphaned projects. An incomplete list (compiled in spring 2021):
+Reproducibility and Comprehensibiltiy seems to be a core goal of the whole semantic web idea. However, I discovered a surprisingly high percentage of orphaned projects. An incomplete list (compiled since spring 2021):
 
 - http://www.semanticweb.org/ (time out)
 - https://www.semanticdesktop.org/
@@ -45,3 +45,8 @@ Reproducibility and Comprehensibiltiy seems to be a core goal of the whole seman
     - links to: mailto:project-msc-lod@jacobs-university.de (automatic response: unreachable)
 - https://github.com/bfo-ontology/BFO/wiki
     - links to: http://ifomis.uni-saarland.de/bfo/discussion (404)
+- many of the [publicly listed wikibase instances](https://wikibase-registry-query.wmflabs.org/#%23defaultView%3ATimeline%0ASELECT%20%3Fitem%20%3FitemLabel%20%3FcreationDate%20%28SAMPLE%28%3Flogo%29%20AS%20%3Fimage%29%0AWHERE%0A%7B%0A%20%20%20%20%3Fitem%20wdt%3AP11%20wd%3AQ20%20.%0A%20%20%20%20%3Fitem%20wdt%3AP5%20%3FcreationDate%20.%0A%09SERVICE%20wikibase%3Alabel%20%7B%20bd%3AserviceParam%20wikibase%3Alanguage%20%22%5BAUTO_LANGUAGE%5D%2Cen%22%20%7D%0A%20%20%20%20OPTIONAL%20%7B%20%3Fitem%20wdt%3AP8%20%3Flogo%20%7D%0A%7D%0AGROUP%20BY%20%3Fitem%20%3FitemLabel%20%3FcreationDate) (see also [here](https://wikibase-registry.wmflabs.org/wiki/Main_Page)) are not available (either 404 or 503 problems).
+- https://www.isko.org/ko.html (International Society for Knowledge Organization) -> KOS registry -> https://bartoc.org/
+    - https://bartoc.org/vocabularies?search=engineering
+        - "Sorry, we have some technical problems! Please contact the administrator and include the error message below." (no error message shown)
+- https://en.wikipedia.org/wiki/UMBEL → http://umbel.org/ → Online Casinos in Australia

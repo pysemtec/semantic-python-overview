@@ -31,6 +31,9 @@ This repository aims to collect and curate a list of projects which are related 
     - extract and print out any ontology-related information
     - convert different OWL syntax variants
     - generate html documentation for an ontology
+- [https://github.com/felixocker/ontor] – Python library for manipulating and vizualizing OWL ontologies in Python
+  - features:
+    - tool set based on owlready2 and networkx
 - [owlready2](https://bitbucket.org/jibalamy/owlready2/src/master/README.rst) – ontology oriented programming in Python
   - docs: https://owlready2.readthedocs.io/en/latest/index.html
   - features:
