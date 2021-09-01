@@ -5,6 +5,9 @@ This repository aims to collect and curate a list of projects which are related 
 
 ## Established Projects
 
+- [brickschema](https://brickschema.org/) – Brick Ontology Python package
+    - Brick is an open-source effort to standardize semantic descriptions of the physical, logical and virtual assets in buildings and the relationships between them.
+    - docs: https://brickschema.readthedocs.io/en/latest/
 - [Cooking with Python and KBpedia](https://www.mkbergman.com/cooking-with-python-and-kbpedia/)
     - Tutorial series on "how to pick tools and then use Python for using and manipulating the KBpedia knowledge graph"
     - [Material in form of Jupyter Notebooks](https://github.com/Cognonto/CWPK),
@@ -31,7 +34,7 @@ This repository aims to collect and curate a list of projects which are related 
     - extract and print out any ontology-related information
     - convert different OWL syntax variants
     - generate html documentation for an ontology
-- [https://github.com/felixocker/ontor] – Python library for manipulating and vizualizing OWL ontologies in Python
+- [ontor](https://github.com/felixocker/ontor) – Python library for manipulating and vizualizing OWL ontologies in Python
   - features:
     - tool set based on owlready2 and networkx
 - [owlready2](https://bitbucket.org/jibalamy/owlready2/src/master/README.rst) – ontology oriented programming in Python
@@ -56,6 +59,9 @@ This repository aims to collect and curate a list of projects which are related 
     - a graph interface which can be backed by any one of a number of store implementations
     - store implementations for in-memory storage and persistent storage
     - a SPARQL 1.1 implementation – supporting SPARQL 1.1 Queries and Update statements
+- [WikidataIntegrator](https://github.com/SuLab/WikidataIntegrator) – Library for reading and writing to Wikidata/Wikibase
+    - features:
+        - high integration with the Wikidata SPARQL endpoint
 
 
 ## Probably Stalled or Outdated Projects
