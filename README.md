@@ -5,9 +5,14 @@ This repository aims to collect and curate a list of projects which are related 
 
 ## Established Projects
 
-- [brickschema](https://brickschema.org/) – Brick Ontology Python package
+- [brickschema](https://github.com/BrickSchema/py-brickschema) – Brick Ontology Python package
     - Brick is an open-source effort to standardize semantic descriptions of the physical, logical and virtual assets in buildings and the relationships between them.
     - docs: https://brickschema.readthedocs.io/en/latest/
+    - website: https://brickschema.org/
+    - features:
+        - basic inference with different reasoners
+        - web based interaction (by means of [Yasgui](https://github.com/TriplyDB/Yasgui))
+        - Translations from different formats (Haystack, VBIS)
 - [Cooking with Python and KBpedia](https://www.mkbergman.com/cooking-with-python-and-kbpedia/)
     - Tutorial series on "how to pick tools and then use Python for using and manipulating the KBpedia knowledge graph"
     - [Material in form of Jupyter Notebooks](https://github.com/Cognonto/CWPK),
