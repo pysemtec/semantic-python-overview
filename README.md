@@ -52,6 +52,12 @@ This repository aims to collect and curate a list of projects which are related 
     - [*Lamy, JB: Owlready: **Ontology-oriented programming in Python with automatic classification and high level constructs for biomedical ontologies**. Artificial Intelligence In Medicine 2017;80:11-28*](http://www.lesfleursdunormal.fr/_downloads/article_owlready_aim_2017.pdf)
     - [*Lamy, JB: **Ontologies with Python**, Apress, 2020*](https://www.apress.com/fr/book/9781484265512)
         - accompanying material: <https://github.com/Apress/ontologies-w-python>
+- [Oxrdflib](https://github.com/oxigraph/oxrdflib) – Oxrdflib provides rdflib stores using pyoxigraph (rust-based)
+    - could be used as drop-in replacements of the rdflib default ones
+- [Pyoxigraph](https://oxigraph.org/pyoxigraph/stable/index.html) – Python graph database library implementing the SPARQL standard.
+    - built on top of [Oxigraph](https://github.com/oxigraph/oxigraph) using [PyO3](https://pyo3.rs/)
+    - docs: https://oxigraph.org/pyoxigraph/stable/index.html
+    - two stores with SPARQL 1.1 capabilities. in-memory/disk based
 - [PyRes](https://github.com/eprover/PyRes)
     - resolution-based theorem provers for first-order logic
     - focus on good comprehensibility of the code
