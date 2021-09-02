@@ -56,6 +56,8 @@ This repository aims to collect and curate a list of projects which are related 
     - resolution-based theorem provers for first-order logic
     - focus on good comprehensibility of the code
     - Literature: [Teaching Automated Theorem Proving by Example](https://link.springer.com/chapter/10.1007/978-3-030-51054-1_9)
+- [Reasonable](https://github.com/gtfierro/reasonable) – An OWL 2 RL reasoner with reasonable performance
+    - written in Rust with Python-Bindings (via [pyo3](https://pyo3.rs/))
 - [rdflib](https://github.com/RDFLib/rdflib) – Python package for working with RDF
   - docs: https://rdflib.readthedocs.io/
   - graphical package overview: https://rdflib.dev/
