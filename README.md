@@ -2,6 +2,8 @@
 
 This repository aims to collect and curate a list of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...). It is inspired by collections like [awesome lists](https://github.com/sindresorhus/awesome#readme). The list might be incomplete and biased, due to the limited knowledge of its author(s).  Improvements are very welcome. Feel free to file an issue or a pull request. Every section is alphabetically sorted.
 
+Furthermore, this repository might serve as a **cristallization point for a community** interested in such projects – and how they might productively interact. See [this discussion](https://github.com/cknoll/semantic-python-overview/discussions/1) for more information.
+
 
 ## Established Projects
 
