@@ -42,6 +42,8 @@ Reproducibility and Comprehensibiltiy seems to be a core goal of the whole seman
     - links to: http://msc2010.org/mscwork/
         - links to: http://4store.org/trac/wiki/SparqlServer (404)
         - links to: <several other pages> (404)
+            - https://lod-cloud.net/dataset/fu-berlin-eurostat
+            - https://lod-cloud.net/dataset/bfs-linked-data
     - links to: mailto:project-msc-lod@jacobs-university.de (automatic response: unreachable)
 - https://github.com/bfo-ontology/BFO/wiki
     - links to: http://ifomis.uni-saarland.de/bfo/discussion (404)
@@ -50,3 +52,4 @@ Reproducibility and Comprehensibiltiy seems to be a core goal of the whole seman
     - https://bartoc.org/vocabularies?search=engineering
         - "Sorry, we have some technical problems! Please contact the administrator and include the error message below." (no error message shown)
 - https://en.wikipedia.org/wiki/UMBEL → http://umbel.org/ → Online Casinos in Australia
+- http://www.visualdataweb.de/webvowl/ Operation stopped in Oct. 2021
