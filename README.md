@@ -70,6 +70,16 @@ This repository aims to collect and curate a list of projects which are related 
     - resolution-based theorem provers for first-order logic
     - focus on good comprehensibility of the code
     - Literature: [Teaching Automated Theorem Proving by Example](https://link.springer.com/chapter/10.1007/978-3-030-51054-1_9)
+- [Quit Store](https://github.com/AKSW/QuitStore) – workspace for distributed collaborative Linked Data knowledge engineering ("Quads in Git")
+    - features:
+        - read and write RDF Datasets
+        - create multiple branches of the Dataset
+    - literature references:
+        - [*Decentralized Collaborative Knowledge Management using Git*](https://natanael.arndt.xyz/bib/arndt-n-2018--jws)
+by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Marx in Journal of Web Semantics, 2018
+[[@sciencedirect](https://www.sciencedirect.com/science/article/pii/S1570826818300416)] [[@arXiv](https://arxiv.org/abs/1805.03721)]
+
+
 - [RaiseWikibase](https://github.com/UB-Mannheim/RaiseWikibase) – A tool for speeding up multilingual knowledge graph construction with Wikibase
     - fast inserts into a Wikibase instance: creates up to a million entities and wikitexts per hour
     - docs: https://ub-mannheim.github.io/RaiseWikibase/
