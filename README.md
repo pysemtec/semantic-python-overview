@@ -95,6 +95,11 @@ by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Ma
     - a graph interface which can be backed by any one of a number of store implementations
     - store implementations for in-memory storage and persistent storage
     - a SPARQL 1.1 implementation – supporting SPARQL 1.1 Queries and Update statements
+
+- [SPARQL kernel](https://github.com/paulovn/sparql-kernel) for Jupyter
+    - features:
+        - sending queries to an SPARQL endpoint
+        - fetching and presenting the results in a notebook
 - [WikidataIntegrator](https://github.com/SuLab/WikidataIntegrator) – Library for reading and writing to Wikidata/Wikibase
     - features:
         - high integration with the Wikidata SPARQL endpoint
