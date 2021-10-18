@@ -27,6 +27,14 @@ This repository aims to collect and curate a list of projects which are related 
     - features:
         - associated text mining using an ontology terms & synonyms
         - tf-idf for synonym curation then adding those synonyms into an ontology
+- [Macelod](https://github.com/thahmann/macleod) – Ontology development environment for Common Logic (CL)
+    - features:
+        - Translating a CLIF file to formats supported by FOL reasoners
+        - Extracting an OWL approximation of a CLIF ontology
+        - Verifying (non-trivial) logical consistency of a CLIF ontology
+        - Proving theorems/lemmas, such as properties of concepts and relations or competency questions
+        - GUI (alpha state)
+
 - [OntoPilot](https://github.com/stuckyb/ontopilot) – software for ontology development and deployment
   - docs: https://github.com/stuckyb/ontopilot/wiki
   - features:
