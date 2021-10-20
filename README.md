@@ -29,7 +29,7 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - features:
         - associated text mining using an ontology terms & synonyms
         - tf-idf for synonym curation then adding those synonyms into an ontology
-- [Macelod](https://github.com/thahmann/macleod) – Ontology development environment for Common Logic (CL)
+- [Macleod](https://github.com/thahmann/macleod) – Ontology development environment for Common Logic (CL)
     - features:
         - Translating a CLIF file to formats supported by FOL reasoners
         - Extracting an OWL approximation of a CLIF ontology
