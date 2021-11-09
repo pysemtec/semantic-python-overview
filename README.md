@@ -36,7 +36,7 @@ Furthermore, this repository might serve as a **cristallization point for a comm
         - Verifying (non-trivial) logical consistency of a CLIF ontology
         - Proving theorems/lemmas, such as properties of concepts and relations or competency questions
         - GUI (alpha state)
-- [Morph-KGC](https://github.com/oeg-upm/morph-kgc) – Python engine to create RDF knowledge graphs from heterogeneous sources with R2RML and RML
+- [Morph-KGC](https://github.com/oeg-upm/morph-kgc) – Engine to create RDF knowledge graphs from heterogeneous sources with R2RML and RML
   - docs: https://github.com/oeg-upm/Morph-KGC/wiki
   - features:
     - support for relational databases, tabular files (e.g. CSV, Excel, Parquet) and hierarchical files (XML and JSON)
