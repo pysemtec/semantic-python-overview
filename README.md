@@ -19,6 +19,14 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - Tutorial series on "how to pick tools and then use Python for using and manipulating the KBpedia knowledge graph"
     - [Material in form of Jupyter Notebooks](https://github.com/Cognonto/CWPK),
     - accompanying python package [cowpoke](https://github.com/Cognonto/cowpoke),
+- [Eddy](https://github.com/obdasystems/eddy) - graphical ontology editor
+  - website: https://www.obdasystems.com/eddy
+  - features:
+    - graphical ontology editing
+    - uses bespoke Graphol format but has an OWL2 export
+    - visualization built on PyQt5
+  - literature references:
+    - [*Lembo, D and Pantaleone, D and Santarelli, V and Savo, DF: **Eddy: A Graphical Editor for OWL 2 Ontologies**. IJCAI 2016; 4252-4253*](https://cs.unibg.it/savo/papers/LPSS-IJCAI-16.pdf)
 - [FunOwl](https://github.com/hsolbrig/funowl) – functional OWL syntax for Python
   - features:
     - provide a pythonic API that follows the OWL functional model for constructing OWL
