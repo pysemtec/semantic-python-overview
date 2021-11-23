@@ -77,6 +77,8 @@ Furthermore, this repository might serve as a **cristallization point for a comm
         - accompanying material: <https://github.com/Apress/ontologies-w-python>
 - [Oxrdflib](https://github.com/oxigraph/oxrdflib) – Oxrdflib provides rdflib stores using pyoxigraph (rust-based)
     - could be used as drop-in replacements of the rdflib default ones
+- [PyFuseki](https://github.com/yubinCloud/pyfuseki) – Library that interact with Jena Fuseki (SPARQL server):
+    - docs: https://yubincloud.github.io/pyfuseki/
 - [Pyoxigraph](https://oxigraph.org/pyoxigraph/stable/index.html) – Python graph database library implementing the SPARQL standard.
     - built on top of [Oxigraph](https://github.com/oxigraph/oxigraph) using [PyO3](https://pyo3.rs/)
     - docs: https://oxigraph.org/pyoxigraph/stable/index.html
