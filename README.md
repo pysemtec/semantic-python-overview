@@ -1,6 +1,6 @@
 # Semantic Python Overview
 
-This repository aims to collect and curate a list of projects which are related both to python and semantic technologies (RDF, OWL, Reasoning, ...). It is inspired by collections like [awesome lists](https://github.com/sindresorhus/awesome#readme). The list might be incomplete and biased, due to the limited knowledge of its author(s).  Improvements are very welcome. Feel free to file an issue or a pull request. Every section is alphabetically sorted.
+This repository aims to collect and curate a list of projects which are related both to python and semantic technologies (RDF, OWL, SPARQL, Reasoning, ...). It is inspired by collections like [awesome lists](https://github.com/sindresorhus/awesome#readme). The list might be incomplete and biased, due to the limited knowledge of its authors. Improvements are very welcome. Feel free to file an issue or a pull request. Every section is alphabetically sorted.
 
 Furthermore, this repository might serve as a **cristallization point for a community** interested in such projects – and how they might productively interact. See [this discussion](https://github.com/cknoll/semantic-python-overview/discussions/1) for more information.
 
@@ -27,6 +27,9 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - visualization built on PyQt5
   - literature references:
     - [*Lembo, D and Pantaleone, D and Santarelli, V and Savo, DF: **Eddy: A Graphical Editor for OWL 2 Ontologies**. IJCAI 2016; 4252-4253*](https://cs.unibg.it/savo/papers/LPSS-IJCAI-16.pdf)
+- [fastobo-py](https://github.com/fastobo/fastobo-py): Python bindings for *fastobo* (rust library to parse OBO 1.4)
+    - features:
+        - load, edit and serialize ontologies in the OBO 1.4 format
 - [FunOwl](https://github.com/hsolbrig/funowl) – functional OWL syntax for Python
   - features:
     - provide a pythonic API that follows the OWL functional model for constructing OWL
@@ -77,6 +80,10 @@ Furthermore, this repository might serve as a **cristallization point for a comm
         - accompanying material: <https://github.com/Apress/ontologies-w-python>
 - [Oxrdflib](https://github.com/oxigraph/oxrdflib) – Oxrdflib provides rdflib stores using pyoxigraph (rust-based)
     - could be used as drop-in replacements of the rdflib default ones
+- [pronto](https://github.com/althonos/pronto): library to parse, browse, create, and export ontologies
+    - features:
+        -supports several ontology languages and formats
+    - docs: https://pronto.readthedocs.io/en/latest/api.html
 - [PyFuseki](https://github.com/yubinCloud/pyfuseki) – Library that interact with Jena Fuseki (SPARQL server):
     - docs: https://yubincloud.github.io/pyfuseki/
 - [Pyoxigraph](https://oxigraph.org/pyoxigraph/stable/index.html) – Python graph database library implementing the SPARQL standard.
