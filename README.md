@@ -40,6 +40,11 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - features:
         - associated text mining using an ontology terms & synonyms
         - tf-idf for synonym curation then adding those synonyms into an ontology
+- [LinkML](https://github.com/linkml/linkml) – Linked Open Data Modeling Language
+    - features:
+        - A high level simple way of specifying data models, optionally enhanced with semantic annotations
+        - A python framework for compiling these data models to json-ld, json-schema, shex, shacl, owl, sql-ddl
+        - A python framework for data conversion and validation, as well as generated Python dataclasses
 - [Macleod](https://github.com/thahmann/macleod) – Ontology development environment for Common Logic (CL)
     - features:
         - Translating a CLIF file to formats supported by FOL reasoners
