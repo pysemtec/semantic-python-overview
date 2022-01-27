@@ -58,6 +58,10 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - support for relational databases, tabular files (e.g. CSV, Excel, Parquet) and hierarchical files (XML and JSON)
     - generates the RDF by running the engine through command line
     - can be used as a library to load the RDF knowledge graph to RDFlib
+- [OnToology](https://github.com/OnToology/OnToology) – System for collaborative ontology development process
+    - docs: http://ontoology.linkeddata.es/stepbystep
+    - live version: http://ontoology.linkeddata.es/
+    - citable reference: https://doi.org/10.1016/j.websem.2018.09.003
 - [OntoPilot](https://github.com/stuckyb/ontopilot) – software for ontology development and deployment
   - docs: https://github.com/stuckyb/ontopilot/wiki
   - features:
