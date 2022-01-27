@@ -7,6 +7,14 @@ Furthermore, this repository might serve as a **cristallization point for a comm
 
 ## Established Projects
 
+- [Bioregistry](https://github.com/biopragmatics/bioregistry) - The Bioregistry
+  - docs: https://bioregistry.readthedocs.io
+  - website: https://bioregistry.io/
+  - features:
+    - Open source (and CC 0) repository of prefixes, their associated metadata, and mappings to external registries' prefixes
+    - Standarization of prefixes and CURIEs 
+    - Interconversion between CURIEs and IRIs
+    - Generation of context-specific prefix maps for usage in RDF, LinkML, SSSOM, OWL, etc.
 - [brickschema](https://github.com/BrickSchema/py-brickschema) – Brick Ontology Python package
     - Brick is an open-source effort to standardize semantic descriptions of the physical, logical and virtual assets in buildings and the relationships between them.
     - docs: https://brickschema.readthedocs.io/en/latest/
