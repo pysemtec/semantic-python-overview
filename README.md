@@ -178,6 +178,7 @@ by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Ma
 
 ## Further Projects / Links
 
+- [awesome-semantic-web#python](https://github.com/semantalytics/awesome-semantic-web#python) Python section of awesome list for semantic-web-related projects
 - [github-semantic-web-python](https://github.com/topics/semantic-web?l=python) – github project search with `topic=semantic-web` and `language=python`
 - [Pywikibot](https://github.com/wikimedia/pywikibot)
     - Library to interact with Wikidata and Wikimedia API
