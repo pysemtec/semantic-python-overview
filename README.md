@@ -103,6 +103,13 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - docs: https://pronto.readthedocs.io/en/latest/api.html
 - [PyFuseki](https://github.com/yubinCloud/pyfuseki) – Library that interact with Jena Fuseki (SPARQL server):
     - docs: https://yubincloud.github.io/pyfuseki/
+- [PyOBO](https://github.com/pyobo/pyobo)
+  - docs:  https://pyobo.readthedocs.io
+  - features:
+    - Provides unified, high-level access to names, descriptions, synonyms, xrefs, hierarchies, properties, relationships, etc. in ontologies from many sources listed in the Bioregistry
+    - Converts databases into OWL and OBO ontologies
+    - Wrapper around ROBOT for using Java tooling to convert between OBO and OWL
+    - Internal DSL for generating OBO ontology
 - [Pyoxigraph](https://oxigraph.org/pyoxigraph/stable/index.html) – Python graph database library implementing the SPARQL standard.
     - built on top of [Oxigraph](https://github.com/oxigraph/oxigraph) using [PyO3](https://pyo3.rs/)
     - docs: https://oxigraph.org/pyoxigraph/stable/index.html
