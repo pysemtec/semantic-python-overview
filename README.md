@@ -66,6 +66,15 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - support for relational databases, tabular files (e.g. CSV, Excel, Parquet) and hierarchical files (XML and JSON)
     - generates the RDF by running the engine through command line
     - can be used as a library to load the RDF knowledge graph to RDFlib
+- [nxontology](https://github.com/related-sciences/nxontology) – NetworkX-based library for representing ontologies
+  - features:
+    - load ontologies into a `networkx.DiGraph` or `MultiDiGraph` from `.obo`, `.json`, or `.owl` formats
+      (powered by pronto / fastobo)
+    - compute information content scores for nodes and semantic similarity scores for node pairs
+- [obonet](https://github.com/dhimmel/obonet) – read OBO-formatted ontologies into NetworkX
+  - features:
+    - Load an `.obo` file into a `networkx.MultiDiGraph`
+    - Users should try [nxontology](https://github.com/related-sciences/nxontology) first, as a more general purpose successor to this project
 - [OnToology](https://github.com/OnToology/OnToology) – System for collaborative ontology development process
     - docs: http://ontoology.linkeddata.es/stepbystep
     - live version: http://ontoology.linkeddata.es/
