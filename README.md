@@ -41,6 +41,15 @@ Furthermore, this repository might serve as a **cristallization point for a comm
 - [FunOwl](https://github.com/hsolbrig/funowl) – functional OWL syntax for Python
   - features:
     - provide a pythonic API that follows the OWL functional model for constructing OWL
+- [Gastrodon](https://github.com/paulhoule/gastrodon) - puts RDF data on your fingertips in Pandas; gateway to matplotlib, scikit-learn and other visualization tools.
+  - features:
+    - interpolate variables into SPARQL queries
+    - access local RDFlib graphs and remote SPARQL protocol endpoints
+    - convert SPARQL result set to pandas dataframes
+    - understandable error messages
+    - input/output graphs in Turtle form
+    - conversion between RDF collections and Python collections
+    - Sphinx domain to incorporate RDF data into documentation
 - [gizmos](https://github.com/ontodev/gizmos) – Utilities for ontology development
     - features:
         - modules for "export", "extract", "tree"-rendering
