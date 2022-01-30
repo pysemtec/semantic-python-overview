@@ -48,6 +48,23 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - features:
         - associated text mining using an ontology terms & synonyms
         - tf-idf for synonym curation then adding those synonyms into an ontology
+- [kglab](https://github.com/DerwenAI/kglab) - Graph Data Science
+    - docs: https://derwen.ai/docs/kgl/
+    - tutorial: https://derwen.ai/docs/kgl/tutorial/
+    - features:
+        - an abstraction layer in Python for building knowledge graphs, integrated with popular graph libraries
+	- we realized that there are several "camps" of graph technologies, with little discussion between them
+        - focus on supporting "Hybrid AI" approaches that combine two or more graph technologies with other ML work
+	- PyData stack – e.g., Pandas, scikit-learn, etc. – allows for graph work within data science workflows
+	- scale-out tools – e.g., RAPIDS, Arrow/Parquet, Dask – provide for scaling graph computation (not necessarily databases)
+	- graph algorithm libraries include NetworkX, iGraph, cuGraph – plus related visualization libraries in PyVis, Cairo, etc.
+	- W3C libraries in Py also lacked full integration: RDFlib, pySHACL, OWL-RL, etc.
+        - pslpython provides for _probabilistic soft logic_, working with uncertainty in probabilistic graphs
+        - additional integration paths and examples show how to work with deep learning (PyG)
+	- import paths from graph databases, such as Neo4j
+        - import paths from note-taking tools, such as Roam Research
+	- usage in [MkRefs](https://github.com/DerwenAI/mkrefs) to add semantic features into MkDocs so that open source projects can federate bibliographies, shared glossaries, etc.
+	- our team provides hands-on workshops at technology conferences for people to gain experience with these different graph approaches
 - [LinkML](https://github.com/linkml/linkml) – Linked Open Data Modeling Language
     - features:
         - A high level simple way of specifying data models, optionally enhanced with semantic annotations
