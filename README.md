@@ -74,11 +74,6 @@ Furthermore, this repository might serve as a **cristallization point for a comm
         - import paths from note-taking tools, such as Roam Research
 	- usage in [MkRefs](https://github.com/DerwenAI/mkrefs) to add semantic features into MkDocs so that open source projects can federate bibliographies, shared glossaries, etc.
 	- kglab team provides hands-on workshops at technology conferences for people to gain experience with these different graph approaches
-- [LinkML](https://github.com/linkml/linkml) – Linked Open Data Modeling Language
-    - features:
-        - A high level simple way of specifying data models, optionally enhanced with semantic annotations
-        - A python framework for compiling these data models to json-ld, json-schema, shex, shacl, owl, sql-ddl
-        - A python framework for data conversion and validation, as well as generated Python dataclasses
 - [KGX](https://github.com/biolink/kgx) - Library for building and exchanging knowledge graphs
     - docs: https://kgx.readthedocs.io/
     - features:
@@ -93,6 +88,11 @@ Furthermore, this repository might serve as a **cristallization point for a comm
             - OWL
             - OBOGraph JSON format
             - SSSOM
+- [LinkML](https://github.com/linkml/linkml) – Linked Open Data Modeling Language
+    - features:
+        - A high level simple way of specifying data models, optionally enhanced with semantic annotations
+        - A python framework for compiling these data models to json-ld, json-schema, shex, shacl, owl, sql-ddl
+        - A python framework for data conversion and validation, as well as generated Python dataclasses
 - [Macleod](https://github.com/thahmann/macleod) – Ontology development environment for Common Logic (CL)
     - features:
         - Translating a CLIF file to formats supported by FOL reasoners
