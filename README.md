@@ -74,6 +74,20 @@ Furthermore, this repository might serve as a **cristallization point for a comm
         - import paths from note-taking tools, such as Roam Research
 	- usage in [MkRefs](https://github.com/DerwenAI/mkrefs) to add semantic features into MkDocs so that open source projects can federate bibliographies, shared glossaries, etc.
 	- kglab team provides hands-on workshops at technology conferences for people to gain experience with these different graph approaches
+- [KGX](https://github.com/biolink/kgx) - Library for building and exchanging knowledge graphs
+    - docs: https://kgx.readthedocs.io/
+    - features:
+        - Load graphs into an in-memory model to facilitate data integration, validation, and graph operations
+        - Provides an easy way to bring data into Biolink Model, a a high-level data model for biomedical knowledge graphs
+        - The core data structure is a Property Graph (PG), represented internally using a `networkx.MultiDiGraph`
+        - Supports various input and output formats including,
+            - RDF serializations
+            - SPARQL endpoints
+            - Neo4j endpoints
+            - CSV/TSV and JSON
+            - OWL
+            - OBOGraph JSON format
+            - SSSOM
 - [LinkML](https://github.com/linkml/linkml) – Linked Open Data Modeling Language
     - features:
         - A high level simple way of specifying data models, optionally enhanced with semantic annotations
