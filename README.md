@@ -1,3 +1,4 @@
+[![join community](https://pysemtec.org/img/join-community.svg "join community")](https://pysemtec.org)
 # Semantic Python Overview
 
 This repository aims to collect and curate a list of projects which are related both to python and semantic technologies (RDF, OWL, SPARQL, Reasoning, ...). It is inspired by collections like [awesome lists](https://github.com/sindresorhus/awesome#readme). The list might be incomplete and biased, due to the limited knowledge of its authors. Improvements are very welcome. Feel free to file an issue or a pull request. Every section is alphabetically sorted.
