@@ -194,7 +194,7 @@ by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Ma
   - docs: https://rdflib.readthedocs.io/
   - graphical package overview: https://rdflib.dev/
   - features:
-    - parsers and serializers for RDF/XML, NTriples, Turtle and more
+    - parsers and serializers for RDF/XML, NTriples, Turtle, JSON-LD and more
     - a graph interface which can be backed by any one of a number of store implementations
     - store implementations for in-memory storage and persistent storage
     - a SPARQL 1.1 implementation – supporting SPARQL 1.1 Queries and Update statements
