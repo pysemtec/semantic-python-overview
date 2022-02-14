@@ -153,6 +153,11 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - docs: https://pronto.readthedocs.io/en/latest/api.html
 - [PyFuseki](https://github.com/yubinCloud/pyfuseki) – Library that interact with Jena Fuseki (SPARQL server):
     - docs: https://yubincloud.github.io/pyfuseki/
+- [PyLD](https://github.com/digitalbazaar/pyld) - A JSON-LD processor written in Python
+    - conforms:
+        - JSON-LD 1.1, W3C Candidate Recommendation, 2019-12-12 or newer
+        - JSON-LD 1.1 Processing Algorithms and API, W3C Candidate Recommendation, 2019-12-12 or newer
+        - JSON-LD 1.1 Framing, W3C Candidate Recommendation, 2019-12-12 or newer
 - [PyOBO](https://github.com/pyobo/pyobo)
   - docs:  https://pyobo.readthedocs.io
   - features:
