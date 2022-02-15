@@ -153,6 +153,11 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - docs: https://pronto.readthedocs.io/en/latest/api.html
 - [PyFuseki](https://github.com/yubinCloud/pyfuseki) – Library that interact with Jena Fuseki (SPARQL server):
     - docs: https://yubincloud.github.io/pyfuseki/
+- [PyLD](https://github.com/digitalbazaar/pyld) - A JSON-LD processor written in Python
+    - conforms:
+        - JSON-LD 1.1, W3C Candidate Recommendation, 2019-12-12 or newer
+        - JSON-LD 1.1 Processing Algorithms and API, W3C Candidate Recommendation, 2019-12-12 or newer
+        - JSON-LD 1.1 Framing, W3C Candidate Recommendation, 2019-12-12 or newer
 - [PyOBO](https://github.com/pyobo/pyobo)
   - docs:  https://pyobo.readthedocs.io
   - features:
@@ -189,7 +194,7 @@ by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Ma
   - docs: https://rdflib.readthedocs.io/
   - graphical package overview: https://rdflib.dev/
   - features:
-    - parsers and serializers for RDF/XML, NTriples, Turtle and more
+    - parsers and serializers for RDF/XML, NTriples, Turtle, JSON-LD and more
     - a graph interface which can be backed by any one of a number of store implementations
     - store implementations for in-memory storage and persistent storage
     - a SPARQL 1.1 implementation – supporting SPARQL 1.1 Queries and Update statements
