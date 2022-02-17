@@ -190,6 +190,10 @@ by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Ma
     - publication: https://link.springer.com/chapter/10.1007%2F978-3-030-80418-3_11
 - [Reasonable](https://github.com/gtfierro/reasonable) – An OWL 2 RL reasoner with reasonable performance
     - written in Rust with Python-Bindings (via [pyo3](https://pyo3.rs/))
+-[ROBOT](https://github.com/ontodev/robot) – Java-tool for automating ontology workflow with several reasoners (ELK, Hermite, ...) and Python interface
+    - General docs:  https://robot.obolibrary.org/
+    - Python interfaces: https://robot.obolibrary.org/python
+    - Docs on reasoning: https://robot.obolibrary.org/reason
 - [rdflib](https://github.com/RDFLib/rdflib) – Python package for working with RDF
   - docs: https://rdflib.readthedocs.io/
   - graphical package overview: https://rdflib.dev/
