@@ -151,6 +151,11 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - features:
         -supports several ontology languages and formats
     - docs: https://pronto.readthedocs.io/en/latest/api.html
+- [pyfactxx](https://github.com/tilde-lab/pyfactxx) – python bindings for FaCT++ OWL 2 (C++ reasoner)
+    - features:
+        - well-optimized reasoner for SROIQ(D) description logic
+    - notes:
+    	- _work in progress_)
 - [PyFuseki](https://github.com/yubinCloud/pyfuseki) – Library that interact with Jena Fuseki (SPARQL server):
     - docs: https://yubincloud.github.io/pyfuseki/
 - [PyLD](https://github.com/digitalbazaar/pyld) - A JSON-LD processor written in Python
@@ -182,7 +187,6 @@ Furthermore, this repository might serve as a **cristallization point for a comm
 by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Marx in Journal of Web Semantics, 2018
 [[@sciencedirect](https://www.sciencedirect.com/science/article/pii/S1570826818300416)] [[@arXiv](https://arxiv.org/abs/1805.03721)]
 
-
 - [RaiseWikibase](https://github.com/UB-Mannheim/RaiseWikibase) – A tool for speeding up multilingual knowledge graph construction with Wikibase
     - fast inserts into a Wikibase instance: creates up to a million entities and wikitexts per hour
     - docs: https://ub-mannheim.github.io/RaiseWikibase/
@@ -190,7 +194,7 @@ by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Ma
     - publication: https://link.springer.com/chapter/10.1007%2F978-3-030-80418-3_11
 - [Reasonable](https://github.com/gtfierro/reasonable) – An OWL 2 RL reasoner with reasonable performance
     - written in Rust with Python-Bindings (via [pyo3](https://pyo3.rs/))
--[ROBOT](https://github.com/ontodev/robot) – Java-tool for automating ontology workflow with several reasoners (ELK, Hermite, ...) and Python interface
+- [ROBOT](https://github.com/ontodev/robot) – Java-tool for automating ontology workflow with several reasoners (ELK, Hermite, ...) and Python interface
     - General docs:  https://robot.obolibrary.org/
     - Python interfaces: https://robot.obolibrary.org/python
     - Docs on reasoning: https://robot.obolibrary.org/reason
@@ -202,7 +206,6 @@ by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Ma
     - a graph interface which can be backed by any one of a number of store implementations
     - store implementations for in-memory storage and persistent storage
     - a SPARQL 1.1 implementation – supporting SPARQL 1.1 Queries and Update statements
-
 - [SPARQL kernel](https://github.com/paulovn/sparql-kernel) for Jupyter
     - features:
         - sending queries to an SPARQL endpoint
