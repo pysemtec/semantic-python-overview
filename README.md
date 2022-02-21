@@ -211,6 +211,14 @@ by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Ma
     - features:
         - sending queries to an SPARQL endpoint
         - fetching and presenting the results in a notebook
+- [SPARQLing Unicorn QGIS Plugin](https://github.com/sparqlunicorn/sparqlunicornGoesGIS)
+    - docs: https://sparqlunicorn.github.io/sparqlunicornGoesGIS/
+    - QGIS plugin page: https://plugins.qgis.org/plugins/sparqlunicorn/
+    - features:
+        - Querying geospatial vector layers from SPARQL endpoints
+        - Conversion of geoformats (GeoJSON, SHP, KML, GML, etc.) to geospatial RDF
+        - Conversion of RDF geodata (GeoSPARQL-formatted) from one coordinate reference system to another
+        - SHACL validation of geospatial RDF graphs including validation of geoliteral (WKT, GML) contents
 - [WikidataIntegrator](https://github.com/SuLab/WikidataIntegrator) – Library for reading and writing to Wikidata/Wikibase
     - features:
         - high integration with the Wikidata SPARQL endpoint
