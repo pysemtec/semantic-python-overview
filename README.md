@@ -164,6 +164,12 @@ Furthermore, this repository might serve as a **cristallization point for a comm
         - JSON-LD 1.1, W3C Candidate Recommendation, 2019-12-12 or newer
         - JSON-LD 1.1 Processing Algorithms and API, W3C Candidate Recommendation, 2019-12-12 or newer
         - JSON-LD 1.1 Framing, W3C Candidate Recommendation, 2019-12-12 or newer
+- [pyLoDStorage](https://github.com/WolfgangFahl/pyLoDStorage) – python library to interchange data between SPARQL-, JSON and SQL-endpoints
+    - features:
+        -  Integration of [tabulate library](https://pypi.org/project/tabulate/)
+        -  QueryManager class for handling named queries
+        -  Basic data structure: **l**ists of **d**icts (thus: "LoD")
+    - docs: https://wiki.bitplan.com/index.php/PyLoDStorage
 - [PyOBO](https://github.com/pyobo/pyobo)
   - docs:  https://pyobo.readthedocs.io
   - features:
