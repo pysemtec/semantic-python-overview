@@ -211,7 +211,7 @@ by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Ma
     - features:
         - sending queries to an SPARQL endpoint
         - fetching and presenting the results in a notebook
-- [SPARQLing Unicorn QGIS Plugin](https://github.com/sparqlunicorn/sparqlunicornGoesGIS)
+- [SPARQLing Unicorn QGIS Plugin](https://github.com/sparqlunicorn/sparqlunicornGoesGIS) – QGIS plugin which adds a GeoJSON layer from SPARQL enpoint queries
     - docs: https://sparqlunicorn.github.io/sparqlunicornGoesGIS/
     - QGIS plugin page: https://plugins.qgis.org/plugins/sparqlunicorn/
     - features:
