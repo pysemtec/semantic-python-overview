@@ -225,6 +225,11 @@ by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Ma
         - Conversion of geoformats (GeoJSON, SHP, KML, GML, etc.) to geospatial RDF
         - Conversion of RDF geodata (GeoSPARQL-formatted) from one coordinate reference system to another
         - SHACL validation of geospatial RDF graphs including validation of geoliteral (WKT, GML) contents
+- [SPARQLWrapper](https://github.com/RDFLib/sparqlwrapper) – A wrapper for a remote SPARQL endpoint
+    - docs: https://sparqlwrapper.readthedocs.io/en/latest/index.html
+    - features:
+    	- Creating a query invocation
+    	- Optionally converting the result into a more manageable format
 - [WikidataIntegrator](https://github.com/SuLab/WikidataIntegrator) – Library for reading and writing to Wikidata/Wikibase
     - features:
         - high integration with the Wikidata SPARQL endpoint
