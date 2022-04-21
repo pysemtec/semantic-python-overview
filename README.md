@@ -101,12 +101,12 @@ Furthermore, this repository might serve as a **cristallization point for a comm
         - Verifying (non-trivial) logical consistency of a CLIF ontology
         - Proving theorems/lemmas, such as properties of concepts and relations or competency questions
         - GUI (alpha state)
-- [Morph-KGC](https://github.com/oeg-upm/morph-kgc) – Engine to create RDF knowledge graphs from heterogeneous sources with R2RML and RML
-  - docs: https://github.com/oeg-upm/Morph-KGC/wiki
+- [Morph-KGC](https://github.com/oeg-upm/morph-kgc) – Engine to create RDF and RDF-star knowledge graphs from heterogeneous sources with R2RML, RML and RML-str
+  - docs: https://morph-kgc.readthedocs.io
   - features:
     - support for relational databases, tabular files (e.g. CSV, Excel, Parquet) and hierarchical files (XML and JSON)
-    - generates the RDF by running the engine through command line
-    - can be used as a library to load the RDF knowledge graph to RDFlib
+    - generates the RDF and RDF-star knowledge graphs by running through command line or as a library
+    - Integrates with RDFlib and Oxigraph to load the generated RDF directly to those libraries
 - [nxontology](https://github.com/related-sciences/nxontology) – NetworkX-based library for representing ontologies
   - features:
     - load ontologies into a `networkx.DiGraph` or `MultiDiGraph` from `.obo`, `.json`, or `.owl` formats
