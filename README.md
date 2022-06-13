@@ -213,6 +213,10 @@ by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Ma
     - a graph interface which can be backed by any one of a number of store implementations
     - store implementations for in-memory storage and persistent storage
     - a SPARQL 1.1 implementation – supporting SPARQL 1.1 Queries and Update statements
+- [rdflib-endpoint](https://github.com/vemonet/rdflib-endpoint) – Python package for easily deploying SPARQL endpoints for RDFLib Graphs
+  - features:
+    - exposing machine learning models or any other logic implemented in Python through a SPARQL endpoint, using custom functions
+    - serving local RDF files using the command line interface
 - [serd](https://gitlab.com/drobilla/python-serd) – Python serd module, providing bindings for Serd, a lightweight C library for working with RDF data
   - docs:  https://drobilla.gitlab.io/python-serd/singlehtml/
 - [SPARQL kernel](https://github.com/paulovn/sparql-kernel) for Jupyter
