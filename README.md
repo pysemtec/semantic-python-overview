@@ -28,6 +28,16 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - Tutorial series on "how to pick tools and then use Python for using and manipulating the KBpedia knowledge graph"
     - [Material in form of Jupyter Notebooks](https://github.com/Cognonto/CWPK),
     - accompanying python package [cowpoke](https://github.com/Cognonto/cowpoke),
+- [CubicWeb](https://www.cubicweb.org/) a framework to build semantic web applications
+  - website: https://www.cubicweb.org
+  - docs: https://cubicweb.readthedocs.io/en/latest/
+  - features:
+    - An engine driven by the explicit data model of the application
+    - RQL, an intuitive query language close to the business vocabulary
+    - An architecture that separates data selection and visualisation
+    - Data security by design
+    - An efficient data storage
+
 - [Eddy](https://github.com/obdasystems/eddy) - graphical ontology editor
   - website: https://www.obdasystems.com/eddy
   - features:
