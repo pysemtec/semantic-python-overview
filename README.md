@@ -161,12 +161,11 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - features:
         -supports several ontology languages and formats
     - docs: https://pronto.readthedocs.io/en/latest/api.html
-- [pyfactxx](https://github.com/tilde-lab/pyfactxx) – python bindings for FaCT++ OWL 2 C++ reasoner
+- [pyfactxx](https://github.com/tilde-lab/pyfactxx) – Python bindings for FaCT++ OWL 2 C++ reasoner
     - features:
-        - well-optimized reasoner for SROIQ(D) description logic
+        - well-optimized reasoner for SROIQ(D) description logic, with additional improvements
         - [rdflib](https://github.com/RDFLib/rdflib) integration
-    - notes:
-    	- _work in progress_
+        - easy cross-platform installation
 - [PyFuseki](https://github.com/yubinCloud/pyfuseki) – Library that interact with Jena Fuseki (SPARQL server):
     - docs: https://yubincloud.github.io/pyfuseki/
 - [PyLD](https://github.com/digitalbazaar/pyld) - A JSON-LD processor written in Python
