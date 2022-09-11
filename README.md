@@ -278,6 +278,7 @@ by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Ma
 - [ontology](https://github.com/ozekik/awesome-ontology) – A curated list of ontology things (with some python-related entries)
 - [awesome-semantic-web#python](https://github.com/semantalytics/awesome-semantic-web#python) Python section of awesome list for semantic-web-related projects
 - [github-semantic-web-python](https://github.com/topics/semantic-web?l=python) – github project search with `topic=semantic-web` and `language=python`
+- "Graph Thinking" – Talk by Paco Nathan ([@ceteri](https://github.com/ceteri)) PyData Global 2021; [slides](https://derwen.ai/s/kcgh#84), [video](https://www.youtube.com/watch?v=bqku2a7ScXg)
 - [Hydra Ecosystem](https://github.com/HTTP-APIs) - Semantically Linked REST APIs
     - docs: https://www.hydraecosystem.org/
     - tutorials: the stack has three major layers ([server](https://github.com/HTTP-APIs/hydrus), [client](https://github.com/HTTP-APIs/hydra-python-agent), [GUI](https://github.com/HTTP-APIs/hydra-python-agent-gui)); each repo has it own README
