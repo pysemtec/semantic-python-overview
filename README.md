@@ -194,6 +194,8 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - resolution-based theorem provers for first-order logic
     - focus on good comprehensibility of the code
     - Literature: [Teaching Automated Theorem Proving by Example](https://link.springer.com/chapter/10.1007/978-3-030-51054-1_9)
+- [pystardog](https://github.com/stardog-union/pystardog)
+    - Python bindings for the [Stardog Knowledge Graph platform](https://www.stardog.com/)
 - [Quit Store](https://github.com/AKSW/QuitStore) – workspace for distributed collaborative Linked Data knowledge engineering ("Quads in Git")
     - features:
         - read and write RDF Datasets
