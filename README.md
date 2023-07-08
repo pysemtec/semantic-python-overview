@@ -230,6 +230,16 @@ by Natanael Arndt, Patrick Naumann, Norman Radtke, Michael Martin, and Edgard Ma
     - serving local RDF files using the command line interface
 - [serd](https://gitlab.com/drobilla/python-serd) – Python serd module, providing bindings for Serd, a lightweight C library for working with RDF data
   - docs:  https://drobilla.gitlab.io/python-serd/singlehtml/
+- [ sparqlfun](https://github.com/linkml/sparqlfun)
+    - LinkML based SPARQL template library and execution engine
+        - modularized core library of SPARQL templates
+        - Fully FAIR description of templates
+        - Rich expressive language for moedeling templates
+            - uses [LinkML](https://linkml.io/linkml/) as base language
+        - optional python bindings / [object model](https://github.com/linkml/sparqlfun/blob/main/sparqlfun/model.py) using LinkML
+        - supports both SELECT and CONSTRUCT
+        - optional export to TSV, JSON, YAML, RDF
+        - extensive [endpoint metadata](https://github.com/linkml/sparqlfun/tree/main/sparqlfun/config)
 - [SPARQL kernel](https://github.com/paulovn/sparql-kernel) for Jupyter
     - features:
         - sending queries to an SPARQL endpoint
