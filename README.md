@@ -168,6 +168,13 @@ Furthermore, this repository might serve as a **cristallization point for a comm
         - easy cross-platform installation
 - [PyFuseki](https://github.com/yubinCloud/pyfuseki) – Library that interact with Jena Fuseki (SPARQL server):
     - docs: https://yubincloud.github.io/pyfuseki/
+
+- [PyKEEN](https://github.com/pykeen/pykeen) (**Py**thon **K**nowl**E**dge **E**mbeddi**N**gs) – Python package to train and evaluate knowledge graph embedding models
+    - features:
+        - 44 Models
+        - 37 Datasets
+        - 5 Inductive Datasets
+        - support for multi-modal information
 - [PyLD](https://github.com/digitalbazaar/pyld) - A JSON-LD processor written in Python
     - conforms:
         - JSON-LD 1.1, W3C Candidate Recommendation, 2019-12-12 or newer
