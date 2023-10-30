@@ -99,6 +99,12 @@ Furthermore, this repository might serve as a **cristallization point for a comm
             - OWL
             - OBOGraph JSON format
             - SSSOM
+- [LangChain](https://github.com/langchain-ai/langchain)'s GraphSparqlQAChain – A LangChain module for making RDF and OWL accessible via natural language
+    - docs: https://python.langchain.com/docs/use_cases/graph/graph_sparql_qa
+    - features:
+        - Generates SPARQL SELECT and UPDATE queries from natural language
+        - Runs the generated queries against local files, endpoints, or triple stores
+        - Returns natural language responses
 - [LinkML](https://github.com/linkml/linkml) – Linked Open Data Modeling Language
     - features:
         - A high level simple way of specifying data models, optionally enhanced with semantic annotations
