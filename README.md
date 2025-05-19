@@ -167,6 +167,12 @@ Furthermore, this repository might serve as a **cristallization point for a comm
     - features:
         -supports several ontology languages and formats
     - docs: https://pronto.readthedocs.io/en/latest/api.html
+- [pycottas](https://github.com/arenas-guerrero-julian/pycottas) – Library for working with compressed COTTAS files
+  - docs: https://pycottas.readthedocs.io
+  - features:
+    - compress RDF files to COTTAS format
+    - evaluate triple patterns over compressed RDF
+    - integrates with RDFlib as a store backend to query COTTAS files with SPARQL
 - [pyfactxx](https://github.com/tilde-lab/pyfactxx) – Python bindings for FaCT++ OWL 2 C++ reasoner
     - features:
         - well-optimized reasoner for SROIQ(D) description logic, with additional improvements
