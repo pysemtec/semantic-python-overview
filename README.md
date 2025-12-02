@@ -180,7 +180,13 @@ Furthermore, this repository might serve as a **cristallization point for a comm
         - easy cross-platform installation
 - [PyFuseki](https://github.com/yubinCloud/pyfuseki) – Library that interact with Jena Fuseki (SPARQL server):
     - docs: https://yubincloud.github.io/pyfuseki/
-
+- [pyjelly](https://github.com/Jelly-RDF/pyjelly) – Library for working with the fast & compressed Jelly-RDF serialization format
+    - docs: https://w3id.org/jelly/pyjelly/
+    - features:
+        - read and write Jelly-RDF files, faster than other RDF formats
+        - stream processing support for large datasets or streams of RDF graphs
+        - full integration with RDFLib as a format on par with Turtle, RDF/XML, N-Triples, etc.
+        - lightweight "no-RDFLib" version is also available for minimal dependencies
 - [PyKEEN](https://github.com/pykeen/pykeen) (**Py**thon **K**nowl**E**dge **E**mbeddi**N**gs) – Python package to train and evaluate knowledge graph embedding models
     - features:
         - 44 Models
